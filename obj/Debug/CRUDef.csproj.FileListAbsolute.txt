@@ -10,3 +10,15 @@ C:\Users\BRIAN\source\repos\CRUDef\obj\Debug\CRUDef.csproj.CoreCompileInputs.cac
 C:\Users\BRIAN\source\repos\CRUDef\obj\Debug\CRUDef.csproj.CopyComplete
 C:\Users\BRIAN\source\repos\CRUDef\obj\Debug\CRUDef.exe
 C:\Users\BRIAN\source\repos\CRUDef\obj\Debug\CRUDef.pdb
+C:\vb\CRUDef\bin\Debug\CRUDef.exe.config
+C:\vb\CRUDef\bin\Debug\CRUDef.exe
+C:\vb\CRUDef\bin\Debug\CRUDef.pdb
+C:\vb\CRUDef\bin\Debug\EntityFramework.dll
+C:\vb\CRUDef\bin\Debug\EntityFramework.SqlServer.dll
+C:\vb\CRUDef\bin\Debug\EntityFramework.xml
+C:\vb\CRUDef\bin\Debug\EntityFramework.SqlServer.xml
+C:\vb\CRUDef\obj\Debug\CRUDef.csproj.AssemblyReference.cache
+C:\vb\CRUDef\obj\Debug\CRUDef.csproj.CoreCompileInputs.cache
+C:\vb\CRUDef\obj\Debug\CRUDef.csproj.CopyComplete
+C:\vb\CRUDef\obj\Debug\CRUDef.exe
+C:\vb\CRUDef\obj\Debug\CRUDef.pdb
