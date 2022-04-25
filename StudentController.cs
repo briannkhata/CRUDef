@@ -50,7 +50,12 @@ namespace CRUDef
             foreach (Student stu in studList)
             {
                 Console.WriteLine("Name: " + stu.Name + "\nCode: " + stu.Gender + "\n" + stu.Email + "\n");
+                //Console.WriteLine("----------------------------------------------------------------------");
+                Console.WriteLine("Student Coarses");
+                Console.WriteLine("++++++++++++++++++");
+                StudentCourses(stu.StudentID);
                 Console.WriteLine("----------------------------------------------------------------------");
+
             }
         }
 
@@ -94,11 +99,11 @@ namespace CRUDef
 
        }
 
-        public static void StudentCourses()
+        public void StudentCourses(int id = 0)
         {
             CRUDefEntities db = new CRUDefEntities();
 
-            Student student = db.Student.Find(2);
+            Student student = db.Student.Find(id);
             List<Course> courses = student.Course.ToList();
 
             foreach (Course course in courses)

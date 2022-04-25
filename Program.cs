@@ -12,7 +12,8 @@ namespace CRUDef
         static void Main(string[] args)
         {
             StudentController studentcontroller = new StudentController();
-            studentcontroller.AddStudent();
+            //studentcontroller.AddStudent();
+            studentcontroller.ShowStudents();
             //studentcontroller.MapStudentToCourseOtherWay();
 
             //multipleupdaterecordbyNonPK();
